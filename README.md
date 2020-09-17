@@ -1,16 +1,20 @@
-### Hi there 👋
+# Olá 👋
 
-<!--
-**ramirand10/ramirand10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Raphael Martins 👨🏽‍🦱  . 🇧🇷
 
-Here are some ideas to get you started:
+Sou estudante de Análise e Desenvolvimento de Sistemas. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
+
+#### 🌎 **_“Em um mundo em que mudanças estão ocorrendo rapidamente, a única estratégia que terá garantia de fracasso é a de não correr riscos.”_** 🧠
+
+- 📍 de Rio de Janeiro - RJ
+- 😍 Apaixonado por Banco de Dados
+- 📚 Atualmente estudando Business Intelligence e Python
+-  ⚽ E eu também gosto muito de jogar futebol
+
+
+**Quer me conhecer melhor? 👇**
+
+[![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Miranda-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raphael-miranda-b739b018b/)](https://www.linkedin.com/in/raphael-miranda-b739b018b/)
+[![Gmail Badge](https://img.shields.io/badge/-raphaelmartins521@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaelmartins521f@gmail.com)](mailto:raphaelmartins521f@gmail.com)
