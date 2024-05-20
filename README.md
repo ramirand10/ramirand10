@@ -2,15 +2,14 @@
 
 Meu nome é Raphael Martins 👨🏽‍🦱  . 🇧🇷
 
-Sou estudante de Análise e Desenvolvimento de Sistemas. 💻
+Sou formado em Análise e Desenvolvimento de Sistemas. 💻
 
 Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
 #### 🌎 **_“Em um mundo em que mudanças estão ocorrendo rapidamente, a única estratégia que terá garantia de fracasso é a de não correr riscos.”_** 🧠
 
 - 📍 de Rio de Janeiro - RJ
-- 😍 Apaixonado por Banco de Dados
-- 📚 Atualmente estudando Business Intelligence e Python
+- 😍 Apaixonado Dados
 -  ⚽ E eu também gosto muito de jogar futebol
 
 
