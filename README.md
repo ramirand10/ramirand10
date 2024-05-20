@@ -9,7 +9,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 #### 🌎 **_“Em um mundo em que mudanças estão ocorrendo rapidamente, a única estratégia que terá garantia de fracasso é a de não correr riscos.”_** 🧠
 
 - 📍 de Rio de Janeiro - RJ
-- 😍 Apaixonado Dados
+- 😍 Apaixonado por Dados
 -  ⚽ E eu também gosto muito de jogar futebol
 
 
