@@ -10,7 +10,7 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 - 📍 de Rio de Janeiro - RJ
 - 😍 Apaixonado por Dados
--  ⚽ E eu também gosto muito de jogar futebol
+-  ⚽ Apaixonado por Futebol
 
 
 **Quer me conhecer melhor? 👇**
